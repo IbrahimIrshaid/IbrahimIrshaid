@@ -2,7 +2,6 @@
 
 **Computer Engineering student at Birzeit University** (Palestine), working across the stack from **gates to software**: processors in Verilog, systems programming in C on Linux, and machine learning in Python. I spent a 2026 Erasmus+ exchange semester at the **University of Helsinki**, studying advanced ML and quantum computing.
 
-🔧 Currently building **Micromouse**, an autonomous maze-solving robot (ESP32, ToF/IR sensors, IMU, floodfill navigation, 3D-printed chassis).
 
 ## Featured projects
 
