@@ -8,6 +8,7 @@
 | Project | What it shows |
 |---|---|
 | [**Pipelined Predicated RISC-32**](https://github.com/IbrahimIrshaid/Pipelined-Predicated-RISC32) | 5-stage pipelined CPU in Verilog with forwarding, load-use stalls, predicated execution, and a self-checking testbench (20/20) |
+| [**Low-Power CMOS Flip-Flop**](https://github.com/IbrahimIrshaid/Low-Power-CMOS-Flip-Flop) | Transistor-level DFF with full-custom layouts in Electric VLSI (DRC/NCC clean), LTspice characterisation, and clock gating measured at an 18% power saving |
 | [**Parallel Processing Analysis**](https://github.com/IbrahimIrshaid/OS-Parallel-Processing-Analysis) | `fork()` + `mmap` vs. Pthreads on 1M records: 2.8× speedup, Amdahl fit (22.4% serial) and a diagnosed load-imbalance slowdown |
 | [**CPU Scheduler & Deadlock Simulator**](https://github.com/IbrahimIrshaid/CPU-Scheduler-Deadlock-Simulator) | Preemptive priority + RR scheduling with aging and deadlock detection/recovery, covered by unit tests |
 | [**Tiny HTTP Server**](https://github.com/IbrahimIrshaid/Tiny-HTTP-Server-Raw-Sockets) | HTTP/1.1 on raw sockets: sessions, auth, redirects, bilingual pages, plus a UDP loss test |
